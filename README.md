@@ -1,1 +1,1 @@
-# Simple POC for FaaS
+Simple POC for FaaS
