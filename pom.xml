@@ -27,7 +27,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>com.esd.salman.Service</mainClass>
+							<mainClass>com.esd.e2faas.Service</mainClass>
 						</manifest>
 					</archive>
 					<finalName>TradeReader</finalName>
